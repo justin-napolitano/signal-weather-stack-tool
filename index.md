@@ -1,12 +1,26 @@
 ---
-slug: "github-signal-weather-stack-tool"
-title: "signal-weather-stack-tool"
-repo: "justin-napolitano/signal-weather-stack-tool"
-githubUrl: "https://github.com/justin-napolitano/signal-weather-stack-tool"
-generatedAt: "2025-11-23T09:37:21.475597Z"
-source: "github-auto"
+slug: github-signal-weather-stack-tool
+title: 'Signal Weather Stack Tool: FastAPI and LangChain Integration for Automated Weather Updates'
+repo: justin-napolitano/signal-weather-stack-tool
+githubUrl: https://github.com/justin-napolitano/signal-weather-stack-tool
+generatedAt: '2025-11-23T09:37:21.475597Z'
+source: github-auto
+summary: >-
+  Technical overview of a containerized Signal-based weather assistant using FastAPI, LangChain, and
+  Docker for real-time forecast queries and notifications.
+tags:
+  - fastapi
+  - langchain
+  - docker
+  - signal
+  - weather-api
+seoPrimaryKeyword: signal weather assistant
+seoSecondaryKeywords:
+  - fastapi weather service
+  - langchain structured chat
+  - docker microservices
+seoOptimized: true
 ---
-
 
 # Signal Weather Stack Tool: Technical Overview and Implementation Notes
 
