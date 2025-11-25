@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/signal-weather-stack-tool
 generatedAt: '2025-11-24T21:36:21.269Z'
 source: github-auto
 summary: >-
-  Explore a Signal-based weather assistant using FastAPI, LangChain, and Docker
-  for automated updates and queries.
+  Explore a Signal-based weather assistant using FastAPI, LangChain, and Docker for automated
+  updates and queries.
 tags:
   - fastapi
   - docker
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - signal messaging integration
   - langchain agent
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -99,3 +99,4 @@ docker-compose up --build
 ---
 
 For detailed usage and architecture, refer to the `index.md` file within the repository.
+
